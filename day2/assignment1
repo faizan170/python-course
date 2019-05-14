@@ -1,0 +1,7 @@
+Assignment - 1.
+
+Create Player data and add to a list
+
+Step 1. Create a dictionary for storing data of player. Keys - (id, level, points, history)
+Step 2. History will have a list of previous 5 match records. Records will be either True or False value on basis of game win like [True, False, False ...]
+Step 3. Appned dictionary to a list. Create atleast 5 players records.
