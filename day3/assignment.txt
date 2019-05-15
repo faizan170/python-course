@@ -1,0 +1,21 @@
+Assignment 2
+
+Step 1. Import numpy
+Step 2. Create an array containing 90 integers using arange function
+Step 3. Convert array into (3, 3, 5, 2) shape
+Step 4. Write slice code to generate these outputs
+1. array([[26, 27, 28],
+       [56, 57, 58],
+       [86, 87, 88]])
+
+2. array([[[13, 14],
+        [28, 29]],
+
+       [[43, 44],
+        [58, 59]],
+
+       [[73, 74],
+        [88, 89]]])
+
+Step 5. Convert array to shape. (30, 3) and take transpose
+Step 6. Write code to get original shape of the array.
