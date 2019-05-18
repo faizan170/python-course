@@ -1,0 +1,7 @@
+Assignment - 1
+
+HaarCascade assignment
+
+Step1. Create a method to detect face and eyes in image and draw rectangle arount it. Also write some label at (x,y) position of face. e.g. 'Person'
+Step2. Read an image and pass to method to draw rect and show image
+Step3. Get images from webcam, pass to method to draw rect and show as video.
