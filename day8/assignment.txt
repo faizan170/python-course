@@ -1,0 +1,12 @@
+Assignment
+
+Add 2 convolution and pooling layers with 32 and 64 layers respectively and pooling of 2x2.
+Train model to 20 epochs.
+
+
+Add 4 convolution and pooling layers with 32, 32, 64 and 128 layers respectively and pooling of 2x2.
+Train model to 10 epochs
+
+
+Save Graphs for both trainings.
+hint. Right click on image to save
